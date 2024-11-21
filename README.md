@@ -8,22 +8,22 @@ Significance:
 Early diagnosis and management are crucial to prevent complications.
 ![alt text](image.png)
 
-PROBLEM STATEMENT
+1) PROBLEM STATEMENT:
 Develop a robust algorithm for automatic segmentation and plaque analysis in carotid artery using Deep Learning techniques for quantification of risk measurement .
 ![alt text](image-1.png)
 
-U-NET ARCHITECTURE
+2) U-NET ARCHITECTURE:
 U-Net is a deep learning model primarily used for image segmentation tasks. It is particularly well-suited for biomedical image analysis due to its ability to capture both high-resolution spatial information and contextual features.
 ![alt text](image-2.png)
 
-DATASETS
+3) DATASETS:
 link for dataset:https://data.mendeley.com/datasets/d4xt63mgjm
 
-Sample Input:
+4) Sample Input:
 ![alt text](image-3.png)
 
-superimposition output:
+5) superimposition output:
 ![alt text](image-4.png)
 
-Final output:
+6) Final output:
 ![alt text](image-5.png)
