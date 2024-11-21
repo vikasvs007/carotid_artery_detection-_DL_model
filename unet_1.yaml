@@ -1,0 +1,11 @@
+in_channels: 1     # Matches in_channels in UNet
+n_classes: 1          # Should match out_channels in UNet
+depth: 4            # Matches depth in UNet
+batch_norm: true      # Matches batch_norm in UNet
+padding: true         # Matches padding in UNet
+up_mode: 'upsample'   # Matches up_mode in UNet
+input_shape: [1, 512, 512]  # Optional: Define expected input dimensions
+
+
+output_channels: 1
+
